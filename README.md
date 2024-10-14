@@ -46,7 +46,11 @@ https://es.wikipedia.org/wiki/Computadora#Historia_2
 https://www.techopedia.com/es/definicion/ordenador
 
 |1byte|8bits |
+
 |1kb  |1024by|
+
 |1Mb  |1024kb|
+
 |1GB  |1024Mb|
+
 |1Tb  |1024Gb|
